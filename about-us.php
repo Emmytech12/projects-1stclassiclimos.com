@@ -107,8 +107,7 @@
                         <div class="inner-title-div about-faq-inner">
                             <h2><i class="bi-check2-circle"></i> Our Mission Statement</h2>
                             <div class="expand-div" id="faq244num">&nbsp;<i class="bi-plus"></i>&nbsp;</div>	
-                        </div>
-                                        
+                        </div>                                       
 
                         <div class="faq-answer-div" id="faq244answer" style="display: none;">
                             <p>We are dedicated to building a successful Chauffeur Service business, leveraging technology to create significant value for all our valued customers. We are leaders in bringing innovation to the Chauffeur Service industry and we strive to exceed our customers expectations by providing competitively priced transportation and high quality service. Whether online or on the phone, we're committed to being there for our valued customers 24 hours a day, 7 days a week..</p>                           
@@ -121,12 +120,10 @@
                             <div class="expand-div" id="faq245num">&nbsp;<i class="bi-plus"></i>&nbsp;</div>	
                         </div>
                                         
-
                         <div class="faq-answer-div" id="faq245answer" style="display: none;">
                             <p>We are a dedicated online service provider with a reliable outstanding online class service.</p>                           
                         </div>
                     </div>
-
 
                     <div class="faq-title" onclick="_collapse('faq246')">
                         <div class="inner-title-div about-faq-inner">
@@ -134,9 +131,8 @@
                             <div class="expand-div" id="faq246num">&nbsp;<i class="bi-plus"></i>&nbsp;</div>	
                         </div>
                                         
-
                         <div class="faq-answer-div" id="faq246answer" style="display: none;">
-                        <p>We are a dedicated online service provider with a reliable outstanding online class service.</p>                           
+                            <p>We are a dedicated online service provider with a reliable outstanding online class service.</p>                           
                         </div>
                     </div>
 
@@ -146,9 +142,8 @@
                             <div class="expand-div" id="faq247num">&nbsp;<i class="bi-plus"></i>&nbsp;</div>	
                         </div>
                                         
-
                         <div class="faq-answer-div" id="faq247answer" style="display: none;">
-                        <p>We are a dedicated online service provider with a reliable outstanding online class service.</p>                           
+                            <p>We are a dedicated online service provider with a reliable outstanding online class service.</p>                           
                         </div>
                     </div>   
                 </div>                
