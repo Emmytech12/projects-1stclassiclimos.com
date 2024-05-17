@@ -23,12 +23,7 @@
     <section class="no-cont-other-pages">
         <div class="other-pages-back-div">
             <div class="text-content-div" data-aos="fade-in" data-aos-duration="900">
-                <h1 data-aos="fade-in" data-aos-duration="800"><span>Log-In to Get Started</h1>
-                                
-                <div class="btn-div">        
-                    <a href="#" title="Contact Us">
-                    <button class="btn right-btn" title="Contact Us">Call Us <span><i class="bi-telephone"></i> 1-800-658-5679</span></button></a>
-                </div>                   
+                <h1 data-aos="fade-in" data-aos-duration="800"><span>Log-In to Get Started</h1>                                      
             </div>
         </div>
     </section>
